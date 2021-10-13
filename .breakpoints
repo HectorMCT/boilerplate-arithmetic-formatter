@@ -1,0 +1,30 @@
+{
+  "files": {
+    "arithmetic_arranger.py": [
+      {
+        "id": "1bea2812-bd09-4c69-9cec-5dac8917be5f",
+        "line": 19,
+        "version": 1064,
+        "index": 459
+      },
+      {
+        "id": "4168077c-b2a3-46bd-af50-5725eabc5a59",
+        "line": 21,
+        "version": 1064,
+        "index": 544
+      },
+      {
+        "id": "6b368217-c6cd-4613-896e-846a9b3db2b8",
+        "line": 35,
+        "version": 1064,
+        "index": 1228
+      },
+      {
+        "id": "c4916ddc-784f-4e77-96b2-069881783af4",
+        "line": 49,
+        "version": 1064,
+        "index": 1905
+      }
+    ]
+  }
+}
